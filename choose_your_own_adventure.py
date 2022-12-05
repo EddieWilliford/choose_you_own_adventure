@@ -30,7 +30,7 @@ You wake up feeling drowzy and someones dragging you down a path you don't recog
 
             if answer == "ask them":
                 print("You seem to frighten them a bit, they didn't expect you to be awake yet.")
-                print(""" "I'm the one who saved you" """)
+                print("Surprise! He's a cannibal who didn't fully kill you. He turns around and eats your face.")
             elif answer == "scream":
                 print("The stranger didn't see you ass benefical any more and slices your throat.")
             else:
